@@ -28,7 +28,7 @@ Installation
 
 1. Clone the repository to your local machine:
     ```
-    git clone https://github.com/RaghavVerma24/ChessAI
+    git clone https://github.com/SankalpUW/ChessAI
     ```
 
 2. Install dependecies:
