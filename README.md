@@ -2,25 +2,24 @@ ChessAI
 ========================
 ![Pygame](https://img.shields.io/badge/Pygame-%23000000.svg?&style=for-the-badge&logo=Pygame&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=Python)
 
-A Python chess game with an inbuilt AI that uses the Minimax algorithm with Alpha-Beta pruning and a heuristic evaluation. The game features different levels of AI difficulty, and allows for both single player and two player.
+A Chess game built in Python which uses the Minimax algorithm with Alpha-Beta pruning and a heuristic evaluation. The game features different levels of AI difficulty, and allows for both single player and two player.
 
-Technologies Used
+Languages/Frameworks  Used
 -----------------
 
-- Python: A popular programming language known for its simplicity, readability, and versatility. It is widely used for various applications, including game development.
-- Pygame: A set of Python modules designed for writing video games. It provides functionality for drawing graphics, handling user input, and managing game logic, making it a popular choice for creating 2D games.
+- Python
+- Pygame: A set of Python modules that provides functionality for drawing graphics, handling user input, and managing game logic
 
 Features
 --------
 
-- Play chess against the computer with an inbuilt AI.
-- AI uses the Minimax algorithm with Alpha-Beta pruning for optimal move selection.
+- Play chess against a computer using an inbuilt Artificial Intelligence.
 - Heuristic evaluation to improve AI's decision-making.
-- GUI interface using Pygame for a user-friendly chess playing experience.
+- AI uses the Minimax algorithm with Alpha-Beta pruning for optimal move selection.
 - Support for standard chess rules, including castling, en passant, pawn promotion, etc.
+- GUI interface using Pygame for a user-friendly chess playing experience.
 
-Visuals
--------
+
 
 ![image](https://user-images.githubusercontent.com/59304737/235328268-a4191761-a6cf-47ff-bc57-e190b96697ef.png)
 
